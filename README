@@ -1,0 +1,8 @@
+HEROKU - czyli miejsce gdzie api bedzie dostepne dla wszystkich - enabled ssl
+DYNO - serwer - virtula machine
+uWSGI - way of serving FLASK application
+
+.gitignore plik - co ma ignorowac github
+
+
+git add *
